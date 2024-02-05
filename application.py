@@ -2,16 +2,16 @@ from FindFlights import FindFlights
 from flask import Flask, jsonify, request 
 from flask_cors import CORS,cross_origin
 # 
-application = Flask(__name__)
-CORS(application)
+app = Flask(__name__)
+CORS(app)
 
-@application.route("/",methods = ['GET'])
+@app.route("/",methods = ['GET'])
 @cross_origin()
 def helloWorld():
     data = 200
     return jsonify({'health': data}) 
 
-@application.route("/findFlights",methods = ['POST'])
+@app.route("/findFlights",methods = ['POST'])
 @cross_origin()
 def findFlights():
     try:
@@ -37,6 +37,6 @@ def findFlights():
     return jsonify({'health': data}) 
 
 if __name__ == '__main__': 
-    application.run(debug = True) 
+    app.run(debug = True) 
 
 
