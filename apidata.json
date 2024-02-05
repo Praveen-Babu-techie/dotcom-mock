@@ -1,0 +1,3642 @@
+{
+  "data": {
+    "AnonymousSearch": true,
+    "ArrivalAirports": "EWR",
+    "CalendarLengthOfStay": -1,
+    "CallTimeBBX": "365",
+    "CallTimeDomain": "0.40",
+    "CallTimeProvider": "0.38",
+    "CartId": "D1189B6E-960B-4294-B1D0-D81C423056E2",
+    "CountryCode": "US",
+    "Characteristics": [
+      {
+        "Code": "SHOP_INITIAL_REQUEST_DATETIME",
+        "Value": "02/01/2024 09:22:11"
+      },
+      {
+        "Code": "CLIENTIP"
+      }
+    ],
+    "DepartureAirports": "ORD",
+    "EquipmentTypes": "739,752,73G",
+    "Timings": [
+      {
+        "Name": "Boombox query time",
+        "TimeMilliseconds": "363"
+      },
+      {
+        "Name": "XmlReader query time",
+        "TimeMilliseconds": "2"
+      },
+      {
+        "Name": "GetAirportInfoTotal",
+        "TimeMilliseconds": "000000.04",
+        "DTStart": "20240201_092211.043"
+      },
+      {
+        "Name": "GetCabinCountTotal",
+        "TimeMilliseconds": "000000.00",
+        "DTStart": "20240201_092211.043"
+      },
+      {
+        "Name": "GetCarrierInfoTotal",
+        "TimeMilliseconds": "000000.01",
+        "DTStart": "20240201_092211.043"
+      },
+      {
+        "Name": "GetEquipInfoTotal",
+        "TimeMilliseconds": "000000.03",
+        "DTStart": "20240201_092211.043"
+      },
+      {
+        "Name": "GetHashValuesTotal",
+        "TimeMilliseconds": "000000.00",
+        "DTStart": "20240201_092211.043"
+      },
+      {
+        "Name": "GetBasicEntilements",
+        "TimeMilliseconds": "000000.02",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "FareMatrix",
+        "TimeMilliseconds": "000000.07",
+        "DTStart": "20240201_092211.043"
+      },
+      {
+        "Name": "GetCOSInfoProductsTotal",
+        "TimeMilliseconds": "000002.52",
+        "DTStart": "20240201_092211.043"
+      },
+      {
+        "Name": "MapMeals",
+        "TimeMilliseconds": "000000.15",
+        "DTStart": "20240201_092211.045"
+      },
+      {
+        "Name": "FlightWarnings",
+        "TimeMilliseconds": "000000.03",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "RefDataOperatingCarrierMessage",
+        "TimeMilliseconds": "000000.00",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "FormatOperatingCarrier",
+        "TimeMilliseconds": "000000.00",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "GetCodeShareFlightStatus",
+        "DTStart": "20240201_092211.042"
+      },
+      {
+        "Name": "TimeGetAllCovidTestingFlightDetails",
+        "TimeMilliseconds": "000000.01",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "SearchFilterDecodes",
+        "TimeMilliseconds": "000000.01",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "PrepareSearchFilterOut",
+        "TimeMilliseconds": "000000.06",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "RemoveProductsAndColumns",
+        "TimeMilliseconds": "000000.02",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "GetAdditionalInfo",
+        "TimeMilliseconds": "000003.80",
+        "DTStart": "20240201_092211.042"
+      },
+      {
+        "Name": "UpgradeInformation",
+        "TimeMilliseconds": "000000.00",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "DefaultFlightSortV2",
+        "TimeMilliseconds": "000000.34",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "SortResultsV2",
+        "TimeMilliseconds": "000000.35",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "SaveToPersist",
+        "TimeMilliseconds": "000004.87",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "GetPersistedFileTryShopRequest0 (Success)",
+        "TimeMilliseconds": "000001.05",
+        "DTStart": "20240201_092210.653"
+      },
+      {
+        "Name": "GetPersistedFileTryShopResponse0 (Success)",
+        "TimeMilliseconds": "000001.44",
+        "DTStart": "20240201_092210.654"
+      },
+      {
+        "Name": "AdjustNegativePrices",
+        "TimeMilliseconds": "000000.01",
+        "DTStart": "20240201_092211.046"
+      },
+      {
+        "Name": "Get Recommended Airports",
+        "TimeMilliseconds": "000000.03",
+        "DTStart": "20240201_092210.656"
+      },
+      {
+        "Name": "Origin Destination Validation",
+        "TimeMilliseconds": "000000.03",
+        "DTStart": "20240201_092210.656"
+      },
+      {
+        "Name": "ShopRequest Validation",
+        "TimeMilliseconds": "000000.01",
+        "DTStart": "20240201_092210.656"
+      },
+      {
+        "Name": "UNMR Validation",
+        "TimeMilliseconds": "000000.01",
+        "DTStart": "20240201_092210.656"
+      },
+      {
+        "Name": "Young Adult Age Validation",
+        "TimeMilliseconds": "000000.00",
+        "DTStart": "20240201_092210.656"
+      },
+      {
+        "Name": "Input Validation",
+        "TimeMilliseconds": "000000.08",
+        "DTStart": "20240201_092210.656"
+      },
+      {
+        "Name": "RecentSearches",
+        "TimeMilliseconds": "000000.02",
+        "DTStart": "20240201_092210.656"
+      },
+      {
+        "Name": "TranslateTravelerType",
+        "TimeMilliseconds": "000000.02",
+        "DTStart": "20240201_092210.664"
+      },
+      {
+        "Name": "Shop - Total Call",
+        "TimeMilliseconds": "000398.15",
+        "DTStart": "20240201_092210.653"
+      },
+      {
+        "Name": "filterflightsbytoggle",
+        "TimeMilliseconds": "000000.00",
+        "DTStart": "20240201_092211.051"
+      },
+      {
+        "Name": "Flight Recommendation",
+        "TimeMilliseconds": "000000.12",
+        "DTStart": "20240201_092211.051"
+      }
+    ],
+    "LangCode": "en-US",
+    "LastBBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+    "LastCallDateTime": "2024-02-01 09:22 AM",
+    "LastTripIndexRequested": 1,
+    "MarketingCarriers": "UA",
+    "MidPoints": "",
+    "OperatingCarriers": "UA",
+    "PageCount": 1,
+    "PageCurrent": 1,
+    "QueryType": "bbx",
+    "ServerName": "flightshopping-prd-677bbf4747-nxphb",
+    "ServiceType": 1,
+    "SessionId": "94368629-593b-4952-82f9-61d5133b40c1",
+    "Status": 1,
+    "TripCount": 1,
+    "RecentSearchVersion": "2024_JANW5_production",
+    "Version": "1.2.914.0",
+    "Calendar": {
+      "LoadedFromCache": false,
+      "LengthOfStay": 6,
+      "MaxLengthOfStay": 6,
+      "AdvancePurchase": 14,
+      "CalendarWindow": 30,
+      "Months": []
+    },
+    "Errors": [],
+    "Warnings": [
+      {
+        "MajorCode": "20003.26",
+        "MajorDescription": "FlightShopping/ProviderBBX",
+        "MinorCode": "10051",
+        "MinorDescription": "ITAWaringMessage",
+        "Message": "I'm sorry, we could not find answers to your query. "
+      }
+    ],
+    "ITAQueries": [],
+    "SpecialPricingInfo": {
+      "Description": "",
+      "DisplayName": "",
+      "ItaQueryType": "",
+      "LastValidityMessage": "",
+      "PIN": "",
+      "ProgYear": "",
+      "PromoAndPin": "",
+      "PromoCode": "",
+      "PromoDescription": "",
+      "PromoDisplayText": "",
+      "PromoID": "",
+      "AllowedPointsOfSale": [],
+      "AlternateSuggestions": [],
+      "BlackoutDatesDestination": [],
+      "BlackoutDatesOrigin": [],
+      "Carriers": [],
+      "ClassesOfService": [],
+      "Companions": [],
+      "DateValidationTypes": [],
+      "Discounts": [],
+      "DiversifyAnswers": [],
+      "DiversityStrategies": [],
+      "EffectiveTravelDates": [],
+      "GeoCodeRestrictions": [],
+      "HubRestrictions": [],
+      "PaxListDetails": {
+        "Passengers": []
+      },
+      "PromoFields": [],
+      "PromoTerms": [],
+      "PromoYears": [],
+      "RedeemableDates": [],
+      "RequiredPassengers": [],
+      "SearchMetrics": [],
+      "SearchTypes": [],
+      "ValidationErrors": [],
+      "ValidCardTypes": [],
+      "ValidDaysOfWeekRanges": [],
+      "ValidPartnerCodeTypes": []
+    },
+    "Trips": [
+      {
+        "Destination": "EWR",
+        "DestinationDecoded": "New York/Newark, NJ, US (EWR)",
+        "Origin": "ORD",
+        "OriginDecoded": "Chicago, IL, US (ORD)",
+        "BBXSession": "QX40fMf4pr3qpnnywfeKm1Mpw",
+        "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+        "BBXCellIdSelected": "",
+        "ColumnInformation": {
+          "Columns": [
+            {
+              "DataSourceLabel": "Economy ",
+              "Description": "",
+              "Type": "ECONOMY",
+              "SubType": "Revenue",
+              "FareContentDescription": "<p>Our standard Economy fare:</p><ul class=\"fare-details-list\"><li>Seat selection at booking, if available</li><li>Enjoy other options for customizing your travel</li></ul>",
+              "MarketingText": "<span class=bundles-content>Book with our <br>Low Fare Guarantee</span>Find the lowest United fare online at united.com.<br><a target=_blank href=\"http://www.united.com/CMS/en-US/products/travelproducts/Pages/Lowfareguarantee.aspx\">Learn more</a>",
+              "DataSourceLabelStyle": "ECONOMY",
+              "FareFamilies": ["ECONOMY", "MIN-ECONOMY-SURP-OR-DISP"],
+              "Value": "0-3",
+              "FareFamily": "ECONOMY",
+              "DescriptionId": "3",
+              "MatrixId": 215,
+              "SortIndex": 10
+            },
+            {
+              "DataSourceLabel": "Requested fare class",
+              "Description": "",
+              "Type": "SPECIFIED-BOOKING-CODES",
+              "SubType": "Revenue",
+              "FareContentDescription": "The fare class you requested",
+              "MarketingText": "<span class=bundles-content>Book with our <br>Low Fare Guarantee</span>Find the lowest United fare online at united.com.<br><a target=_blank href=\"http://www.united.com/CMS/en-US/products/travelproducts/Pages/Lowfareguarantee.aspx\">Learn more</a>",
+              "DataSourceLabelStyle": "SPECIFIED-BOOKING-CODES",
+              "FareFamilies": ["SPECIFIED-BOOKING-CODES"],
+              "Value": "0-7",
+              "FareFamily": "SPECIFIED-BOOKING-CODES",
+              "DescriptionId": "7",
+              "MatrixId": 215,
+              "SortIndex": 14
+            },
+            {
+              "DataSourceLabel": "First ",
+              "Description": "(2-cabin)",
+              "Type": "MIN-BUSINESS-OR-FIRST",
+              "SubType": "Revenue",
+              "FareContentDescription": "<p>Our lowest fare in First:</p><ul class=\"fare-details-list\"><li>Personalized inflight service</li><li>More spacious seating and extra legroom</li><li>Expanded dining experience</li></ul>",
+              "MarketingText": "<span class=bundles-content>Book with our <br>Low Fare Guarantee</span>Find the lowest United fare online at united.com.<br><a target=_blank href=\"http://www.united.com/CMS/en-US/products/travelproducts/Pages/Lowfareguarantee.aspx\">Learn more</a>",
+              "DataSourceLabelStyle": "FIRST",
+              "FareFamilies": ["MIN-BUSINESS-OR-FIRST", "FIRST", "BUSINESS"],
+              "Value": "0-79",
+              "FareFamily": "MIN-BUSINESS-OR-FIRST",
+              "DescriptionId": "79",
+              "MatrixId": 215,
+              "SortIndex": 77
+            }
+          ]
+        },
+        "DepartDate": "2024-03-22",
+        "DepartTime": "06:00",
+        "Index": 1,
+        "NonStopMarket": true,
+        "SearchRadiusMilesDestination": -1,
+        "SearchRadiusMilesOrigin": -1,
+        "TripIndex": 1,
+        "UseFilters": true,
+        "ITAQueries": [],
+        "SearchFiltersIn": {
+          "CabinCountMin": -1,
+          "CabinCountMax": -1,
+          "CarrierDefault": true,
+          "CarrierExpress": true,
+          "CarrierPartners": true,
+          "CarrierStar": true,
+          "DurationMin": -1,
+          "DurationMax": -1,
+          "DurationStopMin": -1,
+          "DurationStopMax": -1,
+          "FareFamily": "ECONOMY",
+          "PriceMin": -1.0,
+          "PriceMinCurrency": "USD",
+          "PriceMax": -1.0,
+          "PriceMaxCurrency": "USD",
+          "StopCountExcl": -1,
+          "StopCountMin": -1,
+          "StopCountMax": 0,
+          "AirportsDestinationList": [],
+          "AirportsOriginList": [],
+          "AirportsStopList": [],
+          "AirportsStopToAvoidList": [],
+          "CarriersMarketingList": [],
+          "CarriersOperatingList": [],
+          "EquipmentList": [],
+          "FareFamilyFilters": [],
+          "Warnings": []
+        },
+        "SearchFiltersOut": {
+          "AirportsOrigin": "ORD",
+          "AirportsDestination": "EWR",
+          "CabinCountMin": 2,
+          "CabinCountMax": 2,
+          "CarrierDefault": true,
+          "CarrierExpress": true,
+          "CarrierPartners": true,
+          "CarrierStar": true,
+          "CarriersMarketing": "UA",
+          "CarriersOperating": "UA",
+          "DurationMin": 124,
+          "DurationMax": 143,
+          "DurationStopMin": -1,
+          "DurationStopMax": -1,
+          "EquipmentCodes": "739,73G,752",
+          "EquipmentTypes": "739,752,73G",
+          "MinDepDate": "03/22/2024 06:00:00",
+          "MaxDepDate": "03/22/2024 21:20:00",
+          "MinArrivalDate": "03/22/2024 09:13:00",
+          "MaxArrivalDate": "03/23/2024 00:24:00",
+          "PriceMin": 232.0,
+          "PriceMinCurrency": "USD",
+          "PriceMax": 1089.1,
+          "PriceMaxCurrency": "USD",
+          "StopCountExcl": -1,
+          "StopCountMin": 0,
+          "StopCountMax": 0,
+          "TimeDepartMin": "06:00",
+          "TimeDepartMax": "21:20",
+          "TimeArrivalMin": "00:24",
+          "TimeArrivalMax": "23:15",
+          "AirportsDestinationList": [
+            {
+              "Code": "EWR",
+              "Description": "Newark, NJ, US",
+              "Currency": "USD",
+              "Amount": "232.00"
+            },
+            {
+              "Code": "EWR",
+              "Description": "Newark, NJ, US",
+              "Currency": "USD",
+              "Amount": "383.10"
+            },
+            {
+              "Code": "EWR",
+              "Description": "Newark, NJ, US",
+              "Currency": "USD",
+              "Amount": "939.11"
+            }
+          ],
+          "AirportsOriginList": [
+            {
+              "Code": "ORD",
+              "Description": "Chicago, IL, US",
+              "Currency": "USD",
+              "Amount": "232.00"
+            },
+            {
+              "Code": "ORD",
+              "Description": "Chicago, IL, US",
+              "Currency": "USD",
+              "Amount": "383.10"
+            },
+            {
+              "Code": "ORD",
+              "Description": "Chicago, IL, US",
+              "Currency": "USD",
+              "Amount": "939.11"
+            }
+          ],
+          "AirportsStopList": [],
+          "AirportsStopToAvoidList": [],
+          "CarriersMarketingList": [
+            {
+              "Code": "UA",
+              "Description": "United Airlines"
+            }
+          ],
+          "CarriersOperatingList": [
+            {
+              "Code": "UA"
+            }
+          ],
+          "EquipmentList": [
+            {
+              "Code": "739",
+              "Description": "Boeing 737-900"
+            },
+            {
+              "Code": "752",
+              "Description": "Boeing 757-200"
+            },
+            {
+              "Code": "73G",
+              "Description": "Boeing 737-700"
+            }
+          ],
+          "FareFamilyFilters": [
+            {
+              "FareFamily": "ECONOMY",
+              "FareFamilyInfo": {
+                "fareFamily": "ECONOMY",
+                "currencyCode": "USD",
+                "maxMileage": 360,
+                "maxPriceValue": 402.0,
+                "minMileage": 202,
+                "minPriceValue": 232.0,
+                "minPriceInSummary": true
+              },
+              "SliceDestinations": [
+                {
+                  "currency": "USD",
+                  "destination": "EWR",
+                  "fareFamily": "ECONOMY",
+                  "minMileage": "202",
+                  "minMileageInSummary": false,
+                  "minPriceValue": 232.0,
+                  "minPriceInSummary": true
+                }
+              ],
+              "SliceOrigins": [
+                {
+                  "currency": "USD",
+                  "origin": "ORD",
+                  "fareFamily": "ECONOMY",
+                  "minMileage": "202",
+                  "minMileageInSummary": false,
+                  "minPriceValue": 232.0,
+                  "minPriceInSummary": true
+                }
+              ],
+              "SliceStops": [
+                {
+                  "currency": "USD",
+                  "fareFamily": "ECONOMY",
+                  "minMileage": "202",
+                  "stopCount": "0",
+                  "minPriceValue": 232.0,
+                  "minPriceInSummary": true
+                }
+              ]
+            },
+            {
+              "FareFamily": "MIN-BUSINESS-OR-FIRST",
+              "FareFamilyInfo": {
+                "fareFamily": "MIN-BUSINESS-OR-FIRST",
+                "currencyCode": "USD",
+                "maxMileage": 1000,
+                "maxPriceValue": 1090.0,
+                "minMileage": 343,
+                "minPriceValue": 384.0,
+                "minPriceInSummary": false
+              },
+              "SliceDestinations": [
+                {
+                  "currency": "USD",
+                  "destination": "EWR",
+                  "fareFamily": "MIN-BUSINESS-OR-FIRST",
+                  "minMileage": "343",
+                  "minMileageInSummary": false,
+                  "minPriceValue": 383.1,
+                  "minPriceInSummary": false
+                }
+              ],
+              "SliceOrigins": [
+                {
+                  "currency": "USD",
+                  "origin": "ORD",
+                  "fareFamily": "MIN-BUSINESS-OR-FIRST",
+                  "minMileage": "343",
+                  "minMileageInSummary": false,
+                  "minPriceValue": 383.1,
+                  "minPriceInSummary": false
+                }
+              ],
+              "SliceStops": [
+                {
+                  "currency": "USD",
+                  "fareFamily": "MIN-BUSINESS-OR-FIRST",
+                  "minMileage": "343",
+                  "stopCount": "0",
+                  "minPriceValue": 383.1,
+                  "minPriceInSummary": false
+                }
+              ]
+            },
+            {
+              "FareFamily": "SPECIFIED-BOOKING-CODES",
+              "FareFamilyInfo": {
+                "fareFamily": "SPECIFIED-BOOKING-CODES",
+                "currencyCode": "USD",
+                "maxMileage": 860,
+                "maxPriceValue": 940.0,
+                "minMileage": 860,
+                "minPriceValue": 940.0,
+                "minPriceInSummary": false
+              },
+              "SliceDestinations": [
+                {
+                  "currency": "USD",
+                  "destination": "EWR",
+                  "fareFamily": "SPECIFIED-BOOKING-CODES",
+                  "minMileage": "860",
+                  "minMileageInSummary": false,
+                  "minPriceValue": 939.11,
+                  "minPriceInSummary": false
+                }
+              ],
+              "SliceOrigins": [
+                {
+                  "currency": "USD",
+                  "origin": "ORD",
+                  "fareFamily": "SPECIFIED-BOOKING-CODES",
+                  "minMileage": "860",
+                  "minMileageInSummary": false,
+                  "minPriceValue": 939.11,
+                  "minPriceInSummary": false
+                }
+              ],
+              "SliceStops": [
+                {
+                  "currency": "USD",
+                  "fareFamily": "SPECIFIED-BOOKING-CODES",
+                  "minMileage": "860",
+                  "stopCount": "0",
+                  "minPriceValue": 939.11,
+                  "minPriceInSummary": false
+                }
+              ]
+            }
+          ],
+          "FareFamilies": {
+            "fareFamily": [
+              {
+                "fareFamily": "ECONOMY",
+                "currencyCode": "USD",
+                "maxMileage": 360,
+                "maxPriceValue": 402.0,
+                "minMileage": 202,
+                "minPriceValue": 232.0,
+                "minPriceInSummary": true
+              },
+              {
+                "fareFamily": "MIN-BUSINESS-OR-FIRST",
+                "currencyCode": "USD",
+                "maxMileage": 1000,
+                "maxPriceValue": 1090.0,
+                "minMileage": 343,
+                "minPriceValue": 384.0,
+                "minPriceInSummary": false
+              },
+              {
+                "fareFamily": "SPECIFIED-BOOKING-CODES",
+                "currencyCode": "USD",
+                "maxMileage": 860,
+                "maxPriceValue": 940.0,
+                "minMileage": 860,
+                "minPriceValue": 940.0,
+                "minPriceInSummary": false
+              }
+            ]
+          },
+          "StopPrices": [{}],
+          "Warnings": ["ARRIVAL"]
+        },
+        "Flights": [
+          {
+            "DepartDateTime": "2024-03-22 06:00",
+            "BBXHash": "GPQ9zYzN0i37IS00",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C9|D9|Z9|ZN9|P4|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 09:13",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "VAA3JHEN",
+            "FlightNumber": "1658",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "PreSortIndex": 3,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "1658",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 133,
+            "TravelMinutes": 133,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "V",
+                "BookingClassAvailability": "J9|JN9|C9|D9|Z9|ZN9|P4|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P005",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHEN",
+                    "SegmentRefs": ["1658"],
+                    "Amount": 250.79,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P005",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 285.0,
+                    "AmountAllPax": 285.0,
+                    "AmountBase": 284.7,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 285.0,
+                    "AmountBySliceAllPax": 285.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 250.79,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 34.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 33.91,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C9|D9|Z9|ZN9|P4|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00G",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["1658"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00G",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C9|D9|Z9|ZN9|P4|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00O",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHFN",
+                    "SegmentRefs": ["1658"],
+                    "Amount": 390.33,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00O",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 435.0,
+                    "AmountAllPax": 435.0,
+                    "AmountBase": 434.7,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 435.0,
+                    "AmountBySliceAllPax": 435.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 390.33,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 45.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 44.37,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 09:13",
+              "EstimatedDepartureDateTime": "2024-03-22 06:00",
+              "ScheduledArrivalDateTime": "2024-03-22 09:13",
+              "ScheduledDepartureDateTime": "2024-03-22 06:00"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-1658-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 07:16",
+            "BBXHash": "GnboxT1Y0coRnz4d",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C9|D8|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V6|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 10:30",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "WAA7OHEN",
+            "FlightNumber": "563",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 1,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "563",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 134,
+            "TravelMinutes": 134,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "W",
+                "BookingClassAvailability": "J9|JN9|C9|D8|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V6|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P002",
+                "Fares": [
+                  {
+                    "FareBasisCode": "WAA7OHEN",
+                    "SegmentRefs": ["563"],
+                    "Amount": 201.77,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 1,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P002",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 232.0,
+                    "AmountAllPax": 232.0,
+                    "AmountBase": 232.0,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 232.0,
+                    "AmountBySliceAllPax": 232.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 201.77,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 31.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 30.23,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C9|D8|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V6|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00I",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["563"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 1,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00I",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C9|D8|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V6|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00R",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHFN",
+                    "SegmentRefs": ["563"],
+                    "Amount": 455.33,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 1,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00R",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 505.0,
+                    "AmountAllPax": 505.0,
+                    "AmountBase": 504.58,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 505.0,
+                    "AmountBySliceAllPax": 505.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 455.33,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 50.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 49.25,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 10:30",
+              "EstimatedDepartureDateTime": "2024-03-22 07:16",
+              "ScheduledArrivalDateTime": "2024-03-22 10:30",
+              "ScheduledDepartureDateTime": "2024-03-22 07:16"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-563-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 09:15",
+            "BBXHash": "GkQozc8NT-boDufj",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C5|D0|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 12:27",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "QAA0OHEN",
+            "FlightNumber": "2099",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 2,
+            "PreSortIndex": 6,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "2099",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 132,
+            "TravelMinutes": 132,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "Q",
+                "BookingClassAvailability": "J9|JN9|C5|D0|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P008",
+                "Fares": [
+                  {
+                    "FareBasisCode": "QAA0OHEN",
+                    "SegmentRefs": ["2099"],
+                    "Amount": 263.88,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 2,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P008",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 299.0,
+                    "AmountAllPax": 299.0,
+                    "AmountBase": 298.77,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 299.0,
+                    "AmountBySliceAllPax": 299.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 263.88,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 35.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 34.89,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C5|D0|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00D",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["2099"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 2,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00D",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "C",
+                "BookingClassAvailability": "J9|JN9|C5|D0|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00X",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADFN",
+                    "SegmentRefs": ["2099"],
+                    "Amount": 999.07,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 2,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00X",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 1090.0,
+                    "AmountAllPax": 1090.0,
+                    "AmountBase": 1089.1,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 1090.0,
+                    "AmountBySliceAllPax": 1090.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 999.07,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 91.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 90.03,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "752",
+              "EquipmentDescription": "Boeing 757-200",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "",
+              "AircraftDoorWidth": "",
+              "AircraftDoorHeightInCm": "",
+              "AircraftDoorWidthInCm": ""
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 12:27",
+              "EstimatedDepartureDateTime": "2024-03-22 09:15",
+              "ScheduledArrivalDateTime": "2024-03-22 12:27",
+              "ScheduledDepartureDateTime": "2024-03-22 09:15"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-2099-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 10:56",
+            "BBXHash": "GSx3g3H9EUeGOj0U",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C9|D7|Z2|ZN2|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q7|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 14:10",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "VAA3JHEN",
+            "FlightNumber": "380",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 3,
+            "PreSortIndex": 4,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "380",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 134,
+            "TravelMinutes": 134,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "V",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z2|ZN2|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q7|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P006",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHEN",
+                    "SegmentRefs": ["380"],
+                    "Amount": 250.79,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 3,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P006",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 285.0,
+                    "AmountAllPax": 285.0,
+                    "AmountBase": 284.7,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 285.0,
+                    "AmountBySliceAllPax": 285.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 250.79,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 34.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 33.91,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z2|ZN2|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q7|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00H",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["380"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 3,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00H",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z2|ZN2|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q7|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00P",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHFN",
+                    "SegmentRefs": ["380"],
+                    "Amount": 390.33,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 3,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00P",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 435.0,
+                    "AmountAllPax": 435.0,
+                    "AmountBase": 434.7,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 435.0,
+                    "AmountBySliceAllPax": 435.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 390.33,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 45.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 44.37,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 14:10",
+              "EstimatedDepartureDateTime": "2024-03-22 10:56",
+              "ScheduledArrivalDateTime": "2024-03-22 14:10",
+              "ScheduledDepartureDateTime": "2024-03-22 10:56"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-380-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 11:57",
+            "BBXHash": "GM-jZf6sRJyZHw4p",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C9|D6|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 15:11",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "VAA3JHEN",
+            "FlightNumber": "247",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 4,
+            "PreSortIndex": 2,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "247",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 134,
+            "TravelMinutes": 134,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "V",
+                "BookingClassAvailability": "J9|JN9|C9|D6|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P003",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHEN",
+                    "SegmentRefs": ["247"],
+                    "Amount": 229.79,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 4,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P003",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 263.0,
+                    "AmountAllPax": 263.0,
+                    "AmountBase": 262.12,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 263.0,
+                    "AmountBySliceAllPax": 263.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 229.79,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 33.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 32.33,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C9|D6|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00J",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["247"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 4,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00J",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C9|D6|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00S",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHFN",
+                    "SegmentRefs": ["247"],
+                    "Amount": 455.33,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 4,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00S",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 505.0,
+                    "AmountAllPax": 505.0,
+                    "AmountBase": 504.58,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 505.0,
+                    "AmountBySliceAllPax": 505.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 455.33,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 50.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 49.25,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 15:11",
+              "EstimatedDepartureDateTime": "2024-03-22 11:57",
+              "ScheduledArrivalDateTime": "2024-03-22 15:11",
+              "ScheduledDepartureDateTime": "2024-03-22 11:57"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-247-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 12:45",
+            "BBXHash": "GRni03xiwOErmzCX",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C7|D3|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q8|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 15:58",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "VAA3JHEN",
+            "FlightNumber": "2298",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 5,
+            "PreSortIndex": 5,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "2298",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 133,
+            "TravelMinutes": 133,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "V",
+                "BookingClassAvailability": "J9|JN9|C7|D3|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q8|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P004",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHEN",
+                    "SegmentRefs": ["2298"],
+                    "Amount": 250.79,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 5,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P004",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 285.0,
+                    "AmountAllPax": 285.0,
+                    "AmountBase": 284.7,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 285.0,
+                    "AmountBySliceAllPax": 285.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 250.79,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 34.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 33.91,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C7|D3|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q8|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00E",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["2298"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 5,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00E",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C7|D3|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q8|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00U",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHFN",
+                    "SegmentRefs": ["2298"],
+                    "Amount": 519.33,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 5,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00U",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 574.0,
+                    "AmountAllPax": 574.0,
+                    "AmountBase": 573.38,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 574.0,
+                    "AmountBySliceAllPax": 574.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 519.33,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 55.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 54.05,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 15:58",
+              "EstimatedDepartureDateTime": "2024-03-22 12:45",
+              "ScheduledArrivalDateTime": "2024-03-22 15:58",
+              "ScheduledDepartureDateTime": "2024-03-22 12:45"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-2298-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 14:32",
+            "BBXHash": "GhQQZuCEMeMzvcPD",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C9|D5|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 17:55",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "HAA0OHEN",
+            "FlightNumber": "609",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 6,
+            "PreSortIndex": 9,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "609",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 143,
+            "TravelMinutes": 143,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "H",
+                "BookingClassAvailability": "J9|JN9|C9|D5|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00A",
+                "Fares": [
+                  {
+                    "FareBasisCode": "HAA0OHEN",
+                    "SegmentRefs": ["609"],
+                    "Amount": 329.09,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 6,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00A",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 369.0,
+                    "AmountAllPax": 369.0,
+                    "AmountBase": 368.87,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 369.0,
+                    "AmountBySliceAllPax": 369.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 329.09,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 40.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 39.78,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C9|D5|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00L",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["609"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 6,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00L",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C9|D5|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00V",
+                "Fares": [
+                  {
+                    "FareBasisCode": "HAA0OHFN",
+                    "SegmentRefs": ["609"],
+                    "Amount": 558.63,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 6,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00V",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 616.0,
+                    "AmountAllPax": 616.0,
+                    "AmountBase": 615.63,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 616.0,
+                    "AmountBySliceAllPax": 616.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 558.63,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 57.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 57.0,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 17:55",
+              "EstimatedDepartureDateTime": "2024-03-22 14:32",
+              "ScheduledArrivalDateTime": "2024-03-22 17:55",
+              "ScheduledDepartureDateTime": "2024-03-22 14:32"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-609-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 16:00",
+            "BBXHash": "GfCkXBqeS3L2hO85",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C6|D1|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 19:18",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "HAA0OHEN",
+            "FlightNumber": "426",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 7,
+            "PreSortIndex": 10,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "426",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 138,
+            "TravelMinutes": 138,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "H",
+                "BookingClassAvailability": "J9|JN9|C6|D1|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00B",
+                "Fares": [
+                  {
+                    "FareBasisCode": "HAA0OHEN",
+                    "SegmentRefs": ["426"],
+                    "Amount": 359.09,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 7,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00B",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 402.0,
+                    "AmountAllPax": 402.0,
+                    "AmountBase": 401.12,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 402.0,
+                    "AmountBySliceAllPax": 402.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 359.09,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 43.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 42.03,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C6|D1|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00K",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["426"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 7,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00K",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C6|D1|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H0|HN0|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00W",
+                "Fares": [
+                  {
+                    "FareBasisCode": "HAA0OHFN",
+                    "SegmentRefs": ["426"],
+                    "Amount": 608.63,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 7,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00W",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 670.0,
+                    "AmountAllPax": 670.0,
+                    "AmountBase": 669.38,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 670.0,
+                    "AmountBySliceAllPax": 670.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 608.63,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 61.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 60.75,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 19:18",
+              "EstimatedDepartureDateTime": "2024-03-22 16:00",
+              "ScheduledArrivalDateTime": "2024-03-22 19:18",
+              "ScheduledDepartureDateTime": "2024-03-22 16:00"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-426-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 18:17",
+            "BBXHash": "GiuO7zHE5P29t8hW",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C9|D7|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 21:40",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "QAA0OHEN",
+            "FlightNumber": "1998",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 8,
+            "PreSortIndex": 8,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "1998",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 143,
+            "TravelMinutes": 143,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "Q",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P009",
+                "Fares": [
+                  {
+                    "FareBasisCode": "QAA0OHEN",
+                    "SegmentRefs": ["1998"],
+                    "Amount": 269.88,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 8,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P009",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 306.0,
+                    "AmountAllPax": 306.0,
+                    "AmountBase": 305.22,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 306.0,
+                    "AmountBySliceAllPax": 306.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 269.88,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 36.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 35.34,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00M",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["1998"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 8,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00M",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z0|ZN0|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00T",
+                "Fares": [
+                  {
+                    "FareBasisCode": "QAA0OHFN",
+                    "SegmentRefs": ["1998"],
+                    "Amount": 507.42,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 8,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00T",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 561.0,
+                    "AmountAllPax": 561.0,
+                    "AmountBase": 560.58,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 561.0,
+                    "AmountBySliceAllPax": 561.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 507.42,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 54.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 53.16,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 21:40",
+              "EstimatedDepartureDateTime": "2024-03-22 18:17",
+              "ScheduledArrivalDateTime": "2024-03-22 21:40",
+              "ScheduledDepartureDateTime": "2024-03-22 18:17"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-1998-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 20:02",
+            "BBXHash": "GOVL2N96Vnlbz9P0",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C9|D7|Z1|ZN1|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V9|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-22 23:15",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "WAA7OHEN",
+            "FlightNumber": "1583",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 9,
+            "PreSortIndex": 1,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "1583",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 133,
+            "TravelMinutes": 133,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "W",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z1|ZN1|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V9|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P001",
+                "Fares": [
+                  {
+                    "FareBasisCode": "WAA7OHEN",
+                    "SegmentRefs": ["1583"],
+                    "Amount": 201.77,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 9,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P001",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 232.0,
+                    "AmountAllPax": 232.0,
+                    "AmountBase": 232.0,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 232.0,
+                    "AmountBySliceAllPax": 232.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 201.77,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 31.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 30.23,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z1|ZN1|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V9|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00F",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["1583"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 9,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00F",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z1|ZN1|P0|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q9|V9|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00N",
+                "Fares": [
+                  {
+                    "FareBasisCode": "VAA3JHFN",
+                    "SegmentRefs": ["1583"],
+                    "Amount": 342.33,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 9,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00N",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 384.0,
+                    "AmountAllPax": 384.0,
+                    "AmountBase": 383.1,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 384.0,
+                    "AmountBySliceAllPax": 384.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 342.33,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 41.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 40.77,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [],
+            "EquipmentDisclosures": {
+              "EquipmentType": "739",
+              "EquipmentDescription": "Boeing 737-900",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-22 23:15",
+              "EstimatedDepartureDateTime": "2024-03-22 20:02",
+              "ScheduledArrivalDateTime": "2024-03-22 23:15",
+              "ScheduledDepartureDateTime": "2024-03-22 20:02"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-1583-UA"
+          },
+          {
+            "DepartDateTime": "2024-03-22 21:20",
+            "BBXHash": "GB+4pdSGyySG5v5d",
+            "BBXSolutionSetId": "0g7KOfoia937QvtDP16OljV",
+            "BookingClassAvailability": "J9|JN9|C9|D7|Z3|ZN3|P1|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+            "CabinCount": 2,
+            "Destination": "EWR",
+            "DestinationCountryCode": "US",
+            "DestinationDateTime": "2024-03-23 00:24",
+            "DestinationDescription": "New York/Newark, NJ, US (EWR)",
+            "DestinationStateCode": "NJ",
+            "DestinationTimezoneOffset": -4,
+            "DestTimezoneOffset": -4.0,
+            "FareBasisCode": "QAA0OHEN",
+            "FlightNumber": "1774",
+            "MarketingCarrier": "UA",
+            "MarketingCarrierDescription": "United Airlines",
+            "MileageActual": 717,
+            "OperatingCarrier": "UA",
+            "OperatingCarrierDescription": "United Airlines",
+            "OperatingCarrierDescSource": "Domain-GetCarrierInfo",
+            "OrderIndex": 10,
+            "PreSortIndex": 7,
+            "Origin": "ORD",
+            "OriginCountryCode": "US",
+            "OriginDescription": "Chicago, IL, US (ORD)",
+            "OriginStateCode": "IL",
+            "OriginTimezoneOffset": -5,
+            "OrgTimezoneOffset": -5.0,
+            "OriginalFlightNumber": "1774",
+            "PageIndex": 1,
+            "ParentFlightNumber": "",
+            "ServiceClassCountLowest": -1,
+            "TravelMinutesTotal": 124,
+            "TravelMinutes": 124,
+            "TripIndex": 1,
+            "Connections": [],
+            "Messages": [],
+            "Products": [
+              {
+                "BookingCode": "Q",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z3|ZN3|P1|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P007",
+                "Fares": [
+                  {
+                    "FareBasisCode": "QAA0OHEN",
+                    "SegmentRefs": ["1774"],
+                    "Amount": 263.88,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 10,
+                "ProductSubtype": "BASE",
+                "ProductType": "ECONOMY",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P007",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 299.0,
+                    "AmountAllPax": 299.0,
+                    "AmountBase": 298.77,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 299.0,
+                    "AmountBySliceAllPax": 299.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 263.88,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 35.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 34.89,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 3,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "ECONOMY",
+                "FareFamily": "ECONOMY",
+                "HasMultipleClasses": false,
+                "SortIndex": 10,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Y",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z3|ZN3|P1|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "",
+                "CabinType": "Coach",
+                "Description": "United Economy",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00C",
+                "Fares": [
+                  {
+                    "FareBasisCode": "BAA0ADEN",
+                    "SegmentRefs": ["1774"],
+                    "Amount": 859.54,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 10,
+                "ProductSubtype": "BASE",
+                "ProductType": "SPECIFIED-BOOKING-CODES",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00C",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 940.0,
+                    "AmountAllPax": 940.0,
+                    "AmountBase": 939.11,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 940.0,
+                    "AmountBySliceAllPax": 940.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 859.54,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 80.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 79.57,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UE",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 7,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "SPECIFIED-BOOKING-CODES",
+                "FareFamily": "SPECIFIED-BOOKING-CODES",
+                "HasMultipleClasses": false,
+                "SortIndex": 14,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              },
+              {
+                "BookingCode": "Z",
+                "BookingClassAvailability": "J9|JN9|C9|D7|Z3|ZN3|P1|PN0|PZ0|IN0|I0|Y9|YN9|B9|M9|E9|U9|H9|HN9|Q0|V0|W0|S0|T0|L0|K0|G0|N9|XN0|X0",
+                "CabinTypeText": "(2-cabin)",
+                "CabinType": "First",
+                "Description": "United First",
+                "Mileage": 717,
+                "ProductId": "LpxkBhzw8URS2ovF5Uut6P00Q",
+                "Fares": [
+                  {
+                    "FareBasisCode": "QAA0OHFN",
+                    "SegmentRefs": ["1774"],
+                    "Amount": 403.42,
+                    "Currency": "USD",
+                    "Ptc": "ADT"
+                  }
+                ],
+                "ProductPath": "Revenue",
+                "BestMatchSortOrder": 10,
+                "ProductSubtype": "BASE",
+                "ProductType": "MIN-BUSINESS-OR-FIRST",
+                "SolutionId": "LpxkBhzw8URS2ovF5Uut6P00Q",
+                "Prices": [
+                  {
+                    "Currency": "USD",
+                    "CurrencyAllPax": "USD",
+                    "Amount": 449.0,
+                    "AmountAllPax": 449.0,
+                    "AmountBase": 448.78,
+                    "PricingType": "Fare",
+                    "AmountBySlice": 449.0,
+                    "AmountBySliceAllPax": 449.0
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 403.42,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 0.0,
+                    "PricingType": "referencePrice"
+                  },
+                  {
+                    "Currency": "USD",
+                    "Amount": 46.0,
+                    "AmountAllPax": 0.0,
+                    "AmountBase": 45.36,
+                    "PricingType": "Taxes"
+                  }
+                ],
+                "MealDescription": "Meals are not offered for this flight",
+                "NoChangeFeeIndicator": true,
+                "NonRefundableIndicator": true,
+                "CabinTypeCode": "UF",
+                "DisplayOrder": 0,
+                "NumberOfPassengers": 0,
+                "ColumnId": 79,
+                "TripIndex": 0,
+                "SegmentNumber": 0,
+                "IsOverBooked": 0,
+                "IsDynamicallyPriced": 0,
+                "Selected": false,
+                "MarriedSegmentIndex": 0,
+                "UserSelection": "MIN-BUSINESS-OR-FIRST",
+                "FareFamily": "MIN-BUSINESS-OR-FIRST",
+                "HasMultipleClasses": false,
+                "SortIndex": 77,
+                "IsFareInBudget": true,
+                "IsCabinInPolicy": true
+              }
+            ],
+            "StopInfos": [],
+            "Warnings": [
+              {
+                "Title": "+1 day arrival",
+                "Key": "ARRIVAL",
+                "Hidden": false,
+                "Messages": [
+                  "Depart ORD: Fri, Mar 22 ",
+                  "Arrive EWR: Sat, Mar 23"
+                ],
+                "SDLContent": {
+                  "Key": "WARNING_ARRIVAL_NEXTDAY",
+                  "Params": {
+                    "FlightDurationDays": "1"
+                  }
+                },
+                "SDLMessages": [
+                  {
+                    "Key": "WARNING_ARRIVAL_DEPART_DESCRIPTION",
+                    "Params": {
+                      "DepartAirportCode": "ORD",
+                      "DepartDate": "2024-03-22 21:20"
+                    }
+                  },
+                  {
+                    "Key": "WARNING_ARRIVAL_ARRIVE_DESCRIPTION",
+                    "Params": {
+                      "ArriveAirportCode": "EWR",
+                      "ArriveDate": "2024-03-23 00:24"
+                    }
+                  }
+                ],
+                "IsFlightBlockLevel": false
+              }
+            ],
+            "EquipmentDisclosures": {
+              "EquipmentType": "73G",
+              "EquipmentDescription": "Boeing 737-700",
+              "IsSingleCabin": false,
+              "NoBoardingAssistance": false,
+              "NonJetEquipment": false,
+              "WheelchairsNotAllowed": false,
+              "AircraftDoorHeight": "32",
+              "AircraftDoorWidth": "45",
+              "AircraftDoorHeightInCm": "81.28",
+              "AircraftDoorWidthInCm": "114.3"
+            },
+            "FlightInfo": {
+              "EstimatedArrivalDateTime": "2024-03-23 00:24",
+              "EstimatedDepartureDateTime": "2024-03-22 21:20",
+              "ScheduledArrivalDateTime": "2024-03-23 00:24",
+              "ScheduledDepartureDateTime": "2024-03-22 21:20"
+            },
+            "Aircraft": {},
+            "Amenities": [],
+            "Hash": "82-1774-UA"
+          }
+        ],
+        "FlightCount": 11,
+        "ChangeType": 0,
+        "OriginalChangeType": 0,
+        "OriginalMileage": 0,
+        "OriginalMileageTotal": 0,
+        "OriginalTax": 0.0
+      }
+    ],
+    "UpgradeTypes": [],
+    "Upsells": [],
+    "LastResultId": "51JGd3IAKWISO3csj0fMf4",
+    "IsMoneyAndMilesEligible": true
+  }
+}
