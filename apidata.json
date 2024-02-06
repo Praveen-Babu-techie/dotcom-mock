@@ -659,7 +659,8 @@
             "Duration": 133,
             "EquipmentType": "Boeing 737-900",
             "Amount": 250.79,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://media.istockphoto.com/id/1362618440/photo/united-airlines-boeing-b737-800-passenger-plane.jpg?s=612x612&w=0&k=20&c=bx11JTiXbkZLhk55cRS7T370zNp34rP7ptrxGnm-bVY="
           },
           {
             "Airline": "United Airlines",
@@ -671,7 +672,8 @@
             "Duration": 134,
             "EquipmentType": "Boeing 737-900",
             "Amount": 201.77,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://media.istockphoto.com/id/1330921414/photo/united-airlines-boeing-787-9-dreamliner-airplane-frankfurt-airport-in-germany.jpg?s=612x612&w=0&k=20&c=QIpl8z_gTnCzXOSWQmW5dXQZgKrxa_34Vxud7srH_rw="
           },
           {
             "Airline": "United Airlines",
@@ -683,7 +685,8 @@
             "Duration": 132,
             "EquipmentType": "Boeing 757-200",
             "Amount": 263.88,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://media.istockphoto.com/id/678860888/photo/united-airlines-boeing-747.jpg?s=612x612&w=0&k=20&c=C1uz5RMNegUCqnYVENGWCBLZyAVMc_SYSdUlkdr_pMw="
           },
           {
             "Airline": "United Airlines",
@@ -695,7 +698,8 @@
             "Duration": 134,
             "EquipmentType": "Boeing 737-900",
             "Amount": 250.79,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://media.istockphoto.com/id/1369033146/photo/united-airlines-boeing-737-aircraft-taking-off-los-angeles-international-airport.jpg?s=612x612&w=0&k=20&c=0jqVvlJFkxfe0HfSZr9Y_B-0uoH7L-uhe1q1GVbn4Xc="
           },
           {
             "Airline": "United Airlines",
@@ -707,7 +711,8 @@
             "Duration": 134,
             "EquipmentType": "Boeing 737-900",
             "Amount": 229.79,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://i.insider.com/60db1e7836cf170019de8722?width=700"
           },
           {
             "Airline": "United Airlines",
@@ -719,7 +724,8 @@
             "Duration": 133,
             "EquipmentType": "Boeing 737-900",
             "Amount": 279.79,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://i.pinimg.com/736x/25/1c/94/251c944e55a792925b3b009b3cfc27f1.jpg"
           },
 
           {
@@ -732,7 +738,8 @@
             "Duration": 143,
             "EquipmentType": "Boeing 737-900",
             "Amount": 329.09,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://i.insider.com/60db1e7836cf170019de8722?width=700"
           },
 
           {
@@ -745,7 +752,8 @@
             "Duration": 138,
             "EquipmentType": "Boeing 737-900",
             "Amount": 359.09,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://i.pinimg.com/736x/25/1c/94/251c944e55a792925b3b009b3cfc27f1.jpg"
           },
 
           {
@@ -758,7 +766,8 @@
             "Duration": 143,
             "EquipmentType": "Boeing 737-900",
             "Amount": 269.88,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://media.istockphoto.com/id/1330921414/photo/united-airlines-boeing-787-9-dreamliner-airplane-frankfurt-airport-in-germany.jpg?s=612x612&w=0&k=20&c=QIpl8z_gTnCzXOSWQmW5dXQZgKrxa_34Vxud7srH_rw="
           },
           {
             "Airline": "United Airlines",
@@ -770,7 +779,8 @@
             "Duration": 133,
             "EquipmentType": "Boeing 737-900",
             "Amount": 201.77,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://media.istockphoto.com/id/1330921414/photo/united-airlines-boeing-787-9-dreamliner-airplane-frankfurt-airport-in-germany.jpg?s=612x612&w=0&k=20&c=QIpl8z_gTnCzXOSWQmW5dXQZgKrxa_34Vxud7srH_rw="
           },
 
           {
@@ -783,7 +793,8 @@
             "Duration": 124,
             "EquipmentType": "Boeing 737-700",
             "Amount": 263.88,
-            "Currency": "USD"
+            "Currency": "USD",
+            "image": "https://media.istockphoto.com/id/1330921414/photo/united-airlines-boeing-787-9-dreamliner-airplane-frankfurt-airport-in-germany.jpg?s=612x612&w=0&k=20&c=QIpl8z_gTnCzXOSWQmW5dXQZgKrxa_34Vxud7srH_rw="
           }
         ],
         "FlightCount": 11,
